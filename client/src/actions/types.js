@@ -1,0 +1,9 @@
+export const GET_ITEMS = 'GET_ITEMS';
+export const DELETE_ITEM = 'DELETE_ITEM';
+export const ADD_ITEM = 'ADD_ITEM';
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+export const UPDATE_ITEM = 'UPDATE_ITEM';
+export const ALL_COMPLETED = 'ALL_COMPLETED';
+export const CLEAR_COMPLETED = 'CLEAR_COMPLETED';
+export const STATUS_FILTER_CHANGE = 'STATUS_FILTER_CHANGE';
+export const ITEMS_LOADING = 'ITEMS_LOADING';
